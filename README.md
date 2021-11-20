@@ -1,2 +1,2 @@
 # Data
-Cleaned processed data utilized in manuscripts
+Cleaned preprocessed DNA methylation data utilized in manuscripts
